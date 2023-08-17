@@ -14,7 +14,7 @@ export default function FirstPost() {
       />
       <Head>
         <title>First Post</title>
-      </Head>          
+      </Head>
       <h1>First Post</h1>
       <h2>
         <Link href="/">Back to home</Link>
