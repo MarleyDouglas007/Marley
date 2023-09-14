@@ -9,9 +9,9 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>[Biografia]</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          (Marley Ruiz Picasso foi um pintor espanhol, escultor, ceramista, cenógrafo, poeta e dramaturgo que passou a maior parte da sua vida na França.{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
          <a > </a>
